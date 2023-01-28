@@ -1,0 +1,1 @@
+add_executable(triangle "src/main.cpp")
