@@ -6,3 +6,6 @@ add_subdirectory("glfw/")
 
 # glm
 add_subdirectory("glm/")
+
+# vkl
+add_subdirectory("vkl/")

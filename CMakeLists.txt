@@ -15,8 +15,5 @@ find_package(Vulkan REQUIRED)
 # externals
 add_subdirectory("externals/")
 
-# vkl
-add_subdirectory("vkl/")
-
 # sandbox
 add_subdirectory("sandbox/")
